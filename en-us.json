@@ -1,0 +1,27 @@
+{
+  "disclaimer": "This application uses community based translations. There is no 100% guarantee for correct translations. You will use this application under your own responsibility. The developer of this app or any translators do NOT take any liability. If you find any problems with the translations, please report them here:",
+  "report-problems": "Report Problems",
+  "intro": "I have allergies.",
+  "questions": {
+    "dish-contains": "Does this dish contain any of the following things:",
+    "product-contains": "Does this product contain any of the following things:",
+    "kitchen-processes": "Does your kitchen process any of the following things:",
+    "which-things-not-contain": "Which things do not contain the following ingredients:"
+  },
+  "allergens": {
+    "peanuts": "Peanuts",
+    "fish": "Fish",
+    "seafood": "Seafood",
+    "shellfish": "Shellfish",
+    "treenuts": "Treenuts",
+    "gluten": "Gluten",
+    "lactose": "Lactose",
+    "mustard": "Mustard"
+  },
+  "answers": {
+    "yes": "Yes",
+    "no": "No",
+    "kitchen-uses": "The kitchen uses some of these ingredients.",
+    "no-but-kitchen": "No. But this kitchen uses some of these ingredients"
+  }
+}
